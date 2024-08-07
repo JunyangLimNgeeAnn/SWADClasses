@@ -1,0 +1,14 @@
+C:\Users\limju\Downloads\SWADCode\SWADCode\bin\Debug\net6.0\SWADCode.exe
+C:\Users\limju\Downloads\SWADCode\SWADCode\bin\Debug\net6.0\SWADCode.deps.json
+C:\Users\limju\Downloads\SWADCode\SWADCode\bin\Debug\net6.0\SWADCode.runtimeconfig.json
+C:\Users\limju\Downloads\SWADCode\SWADCode\bin\Debug\net6.0\SWADCode.dll
+C:\Users\limju\Downloads\SWADCode\SWADCode\bin\Debug\net6.0\SWADCode.pdb
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\SWADCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\SWADCode.AssemblyInfoInputs.cache
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\SWADCode.AssemblyInfo.cs
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\SWADCode.csproj.CoreCompileInputs.cache
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\SWADCode.dll
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\refint\SWADCode.dll
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\SWADCode.pdb
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\SWADCode.genruntimeconfig.cache
+C:\Users\limju\Downloads\SWADCode\SWADCode\obj\Debug\net6.0\ref\SWADCode.dll
